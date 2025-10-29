@@ -1,5 +1,6 @@
 # 🧠 VibeCoding — Smart Contract Concentration Challenge
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/5bbf0791-e3ea-4e5d-83ff-900e70769054" />
+
 
 
 Welcome to **VibeCoding**, a fun and beginner-friendly Solidity project that gamifies *focus and concentration* on the blockchain!  
